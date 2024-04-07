@@ -1,8 +1,8 @@
 {
   "proofsEnabled": false,
   "deploy": {
-    "optimism": "XCounterUC",
-    "base": "XCounterUC"
+    "optimism": "MyContract",
+    "base": "MyContract"
   },
   "isUniversal": true,
   "createChannel": {
@@ -33,8 +33,8 @@
       "timeout": 36000
     },
     "base": {
-      "portAddr": "0x1234567890abcdef1234567890abcdef12345678",
-      "channelId": "channel-y",
+      "portAddr": "0xd629b798c400a140e9a2E88e95F9d8222c4340FC",
+      "channelId": "channel-11",
       "timeout": 36000
     }
   },
